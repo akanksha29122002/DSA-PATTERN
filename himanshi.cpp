@@ -189,6 +189,7 @@ void pattern15(int n){
 
     }
 }
+
 //pattern 16
 
 #include<iostream>
